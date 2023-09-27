@@ -1,5 +1,7 @@
 # Google drive app
 
+![Alt text](example.png)
+
 ## install on mac
 
 1. run `npm run package or skip to use binary provided`
